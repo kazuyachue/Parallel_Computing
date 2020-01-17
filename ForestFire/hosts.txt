@@ -1,0 +1,4 @@
+localhost slots=4
+ness slots=4
+rob slots=4
+stallman slots=8
